@@ -26,7 +26,7 @@ regular hunk on bytes x01937E-x019385 (8 bytes)
 # off of a cliff. Note that it calls additional
 # code (see hunk 4 below) as a subroutine.
 regular hunk on bytes x0193DA-x0193E8 (15 bytes)
-A5 11 8D 88 04 EA A9 01 8D 6C 04 EA 4C E4 BA2
+A5 11 8D 88 04 EA A9 01 8D 6C 04 EA 4C E4 BA
 
 # 3. Originally this code calculated which direction
 # Simon should move in while being knocked back.
